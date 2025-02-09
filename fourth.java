@@ -1,4 +1,4 @@
-public class fouth {
+public class fourth {
     static class student {
         String name;
         int rollno;

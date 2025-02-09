@@ -1,4 +1,3 @@
-//write a program to implement multiple objects of a class by using instance method of a class.
 public class fifth {
     public static void main(String[] args) {
         try {
